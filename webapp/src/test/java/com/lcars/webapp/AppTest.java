@@ -1,4 +1,4 @@
-package com.lcars.webpubsub;
+package com.lcars.webapp;
 
 import static org.junit.Assert.assertTrue;
 
